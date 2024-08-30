@@ -1,6 +1,6 @@
 # Hand Sensor Tetris Project
 
-This project is a unique (and maybe too complex) way to play Tetris. The end result of the project was that the player can play using jsut their hand! The user is able to control the falling block in tetris using a glove equipped with an accelerometer and transmitted the data to a Raspberry Pi. The game graphics and logic for Tetris were coded on the Raspberry Pi. The accelerometer data allowed the user to control the game by wearing the glove. Additionally, we incorporated the game's WAV file to play the theme song during the opening sequence. For instance, if the wearer rapidly moved the glove to the left, the code interpreted the negative acceleration and shifted the falling block to the left.
+This project is a unique (and maybe too complex) way to play Tetris. The end result of the project was that the player can play using jsut their hand! The user is able to control the falling block in tetris using a glove equipped with an accelerometer and transmitted the data to a Raspberry Pi. The game graphics and logic for Tetris were coded in C on the Raspberry Pi. The accelerometer data allowed the user to control the game by wearing the glove. Additionally, we incorporated the game's WAV file to play the theme song during the opening sequence. For instance, if the wearer rapidly moved the glove to the left, the code interpreted the negative acceleration and shifted the falling block to the left.
 
 ## Features
 
