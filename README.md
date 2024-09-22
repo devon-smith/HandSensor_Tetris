@@ -10,7 +10,7 @@ This project is a unique (and maybe too complex) way to play Tetris. The end res
 
 ## Demo Video
 
-In this video, you can see the hand sensor Tetris project in action. The wearer of the glove uses hand movements to control the Tetris blocks, demonstrating how the accelerometer data translates into game commands. This demo showcases the innovative control mechanism and the gameplay experience.
+In this video, you can see the hand Sensor Tetris project in action. The wearer of the glove uses hand movements to control the Tetris blocks, demonstrating how the accelerometer data translates into game commands. This demo showcases the innovative control mechanism and the gameplay experience.
 
 [![Hand Sensor Tetris Demo](https://github.com/user-attachments/assets/2ed877f6-c5f0-4186-aea3-c5e899b5a349)](https://github.com/user-attachments/assets/2ed877f6-c5f0-4186-aea3-c5e899b5a349 "Hand Sensor Tetris Demo Video")
 
