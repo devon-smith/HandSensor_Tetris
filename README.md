@@ -4,7 +4,7 @@ This project is a unique (and maybe too complex) way to play Tetris. The end res
 
 ## Features
 
-- Accelerometer-Controlled Gameplay: Move the Tetris blocks to the left or right by moving your hand.
+- Accelerometer-Controlled Game: Move the Tetris blocks to the left or right by moving your hand.
 - Raspberry Pi Integration: Game logic and graphics run on a Raspberry Pi.
 - Theme Song: Plays the classic Tetris theme song during the opening sequence.
 
