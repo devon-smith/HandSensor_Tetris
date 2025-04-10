@@ -6,7 +6,7 @@ This project is a unique (and maybe too complex) way to play the game Tetris. Th
 
 - Accelerometer-Controlled Game: Move the Tetris blocks to the left or right by accelerating your hand wearing the glove.
 - Raspberry Pi Integration: Game logic and graphics were run on a Raspberry Pi that takes input data from the accelerometer.
-- Theme Song: Plays the classic Tetris theme song during the opening sequence using wav file.
+- Theme Song: gmae plays the classic Tetris theme song during the opening sequence using wav file.
 
 ## Demo Video
 
