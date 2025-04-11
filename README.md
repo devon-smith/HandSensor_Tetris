@@ -8,7 +8,7 @@ This project is a unique (and maybe too complex) way to play the game Tetris. Th
 - Raspberry Pi Integration: Game logic and graphics were run on a Raspberry Pi that takes input data from the accelerometer.
 - Theme Song: gmae plays the classic Tetris theme song during the opening sequence using wav file.
 
-## Demo Video
+## Demo Videos
 
 In this video, you can see the Hand Sensor Tetris in action. The glove wearer can use hand movements to control the Tetris's falling block, demonstrating how the accelerometer data translates into game commands. This demo shows the control mechanism and the gameplay experience.
 
